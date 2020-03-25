@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "employee tracking system",
+  "main": "server.js",
+  "dependencies": {
+    "start": "node server.js",
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdorgu00/Employee-Tracker.git"
+  },
+  "author": "pdorgu00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdorgu00/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/pdorgu00/Employee-Tracker#readme"
+}
