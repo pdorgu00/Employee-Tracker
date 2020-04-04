@@ -15,3 +15,10 @@ Dependencies
 mysql
 express
 inquirer
+
+
+Technologies Used
+This project utilizes Javascript, Node.js,SQL,Inquirer,Express
+
+Installation
+Begin by cloning this repository, run NPM INSTALL in the root of the directory. You can then run Node Server.js and navigate through the CLI(command line interface)
